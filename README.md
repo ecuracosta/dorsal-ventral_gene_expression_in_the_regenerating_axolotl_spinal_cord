@@ -14,6 +14,7 @@ The following Python packages are required:
 You can install these packages using pip:
 ```bash
 pip install pandas numpy scipy matplotlib seaborn
+```
 
 ## Data preprocessing
 
