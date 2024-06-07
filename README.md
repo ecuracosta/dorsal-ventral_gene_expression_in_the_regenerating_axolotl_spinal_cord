@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11520810.svg)](https://doi.org/10.5281/zenodo.11520810)
+
 # Lineage tracing of Shh+ floor plate cells and dynamics of dorsal-ventral gene expression in the regenerating axolotl spinal cord
 
 This project involves the analysis, modeling and visualization of gene expression data from multiple genes, conditions and replicas using a piecewise constant fitting approach.
